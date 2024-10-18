@@ -1,2 +1,2 @@
 # problem1
-this is simple problem for python practice
+This is simple problem for python practice
